@@ -5,3 +5,7 @@
 + Шумный
 + Белый
 + Любит всё грызть 
+
+<p align="center">
+  <img width="500px" src="img/Popug.png">
+</p>
